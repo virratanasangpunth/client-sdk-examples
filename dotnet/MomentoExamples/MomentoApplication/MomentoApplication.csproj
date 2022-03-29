@@ -11,5 +11,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MomentoSdk" Version="0.8.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.16.0" />
   </ItemGroup>
 </Project>
